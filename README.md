@@ -24,4 +24,4 @@ An AI ordering system built on Claude's tool-calling API. Natural language order
 
 ### Connect
 
-[Portfolio](https://cummic.github.io) · [LinkedIn](https://linkedin.com/in/craigcummins) · [craig.cummins@gmail.com](mailto:craig.cummins@gmail.com)
+[Portfolio](https://cummic.github.io) · [LinkedIn](https://linkedin.com/in/craigcummins)
